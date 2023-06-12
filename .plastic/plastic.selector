@@ -1,0 +1,4 @@
+repository "StarfighteR@ssl://jiangtanhua@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/rdj0427" 
+     
